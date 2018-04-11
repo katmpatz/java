@@ -70,6 +70,13 @@ public class RomanNumeralsTest {
     }
 
     @Ignore("Remove to run test")
+	@Test
+	public void test49ToRomanNumberXLIX() {
+	    romanNumeral = new RomanNumeral(49);
+	    assertEquals("XLIX", romanNumeral.getRomanNumeral());
+    }
+
+    @Ignore("Remove to run test")
     @Test
     public void test59ToRomanNumberLIX() {
         romanNumeral = new RomanNumeral(59);
