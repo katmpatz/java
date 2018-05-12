@@ -197,7 +197,7 @@
         "loops",
         "strings"
       ],
-      "unlocked_by": "rna-transcription",
+      "unlocked_by": "two-fer",
       "uuid": "331073b3-bd1a-4868-b767-a64ce9fd9d97"
     },
     {
@@ -640,19 +640,6 @@
     },
     {
       "core": false,
-      "difficulty": 5,
-      "slug": "two-bucket",
-      "topics": [
-        "algorithms",
-        "loops",
-        "conditionals",
-        "mathematics"
-      ],
-      "unlocked_by": "triangle",
-      "uuid": "210bf628-b385-443b-8329-3483cc6e8d7e"
-    },
-    {
-      "core": false,
       "difficulty": 6,
       "slug": "alphametics",
       "topics": [
@@ -940,6 +927,19 @@
     {
       "core": false,
       "difficulty": 7,
+      "slug": "two-bucket",
+      "topics": [
+        "algorithms",
+        "loops",
+        "conditionals",
+        "mathematics"
+      ],
+      "unlocked_by": "triangle",
+      "uuid": "210bf628-b385-443b-8329-3483cc6e8d7e"
+    },
+    {
+      "core": false,
+      "difficulty": 7,
       "slug": "anagram",
       "topics": [
         "arrays",
@@ -1088,6 +1088,32 @@
       ],
       "unlocked_by": "linked-list",
       "uuid": "25d2c7a5-1ec8-464a-b3de-ad1b27464ef1"
+    },
+    {
+      "core": false,
+      "difficulty": 7,
+      "slug": "go-counting",
+      "topics": [
+        "algorithms",
+        "loops",
+        "conditionals",
+        "games"
+      ],
+      "unlocked_by": "scrabble-score",
+      "uuid": "2e760ae2-fadd-4d31-9639-c4554e2826e9"
+    },
+    {
+      "core": false,
+      "difficulty": 7,
+      "slug": "dominoes",
+      "topics": [
+        "games",
+        "algorithms",
+        "lists",
+        "exception_handling"
+      ],
+      "unlocked_by": "scrabble-score",
+      "uuid": "8e3cb20e-623b-4b4d-8a91-d1a51c0911b5"
     },
     {
       "core": false,
